@@ -16,3 +16,4 @@ Ajustes > Infortisa:
 En el pedido de venta:
 - Botón *Enviar a Infortisa*
 - *Actualizar estado* para traer totales/ref. transferencia y (si procede) crear factura/pago.
+ 
